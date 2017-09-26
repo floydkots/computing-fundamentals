@@ -1,4 +1,6 @@
 # Rock-paper-scissors-lizard-Spock
+## See it in action
+Find the game [at codeskulptor.org](http:www.codeskulptor.org/#user43_LXbX1w9hxB_0.py)
 ## Mini-project description
 
 Rock-paper-scissors is a hand game that is played by two people. The players count to three in unison and simultaneously "throw” one of three hand signals that correspond to rock, paper or scissors. The winner is determined by the rules:
