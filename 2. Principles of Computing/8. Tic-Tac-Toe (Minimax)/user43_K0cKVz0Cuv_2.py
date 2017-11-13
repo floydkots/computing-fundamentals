@@ -1,5 +1,6 @@
 """
 Mini-max Tic-Tac-Toe Player
+Author: Floyd Kots ~ github.com/floydkots
 """
 
 import poc_ttt_gui
